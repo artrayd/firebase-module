@@ -13,15 +13,3 @@ features:
 ## IMPORTANT!
 
 Test.
-
-## Features
-
-Test.
-
-## What is this?
-
-Test.
-
-## How does it work?
-
-Test.

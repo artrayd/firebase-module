@@ -7,6 +7,10 @@
     "navBarTop": "navBarTop",
     "navBarBottom": "navBarBottom",
     "tocTop": "tocTop",
-    "tocBottom": "tocBottom"
+    "tocBottom": "tocBottom",
+    "contentTop": "contentTop",
+    "contentBottom": "contentBottom",
+    "footerLeft" : "footerLeft",
+    "footerRight" : "footerRight"
   }
 }
