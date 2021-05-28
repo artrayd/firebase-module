@@ -85,7 +85,7 @@ inject: 'console.log("This is the end of the service worker.")',
 #### Advanced example: 
 
 ```js[nuxt.config.js]
-const fs = require('fs')
+import fs from 'fs'
 ...
 inject: fs.readFileSync('./javascriptFileWithCodeToBeInjected.js', 'utf8'),
 ...
